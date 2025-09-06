@@ -44,9 +44,9 @@ This will start:
 
 ## 🗽 Common Issues & Solutions
 
-1.Database connection error - Ensure db container is running (docker ps)
-2.SSL warning - Normal for self-signed certificates; accept warning in browser
-3.Port 443 in use - Stop other services using port 443
-4.File path issues on Windows - Make sure project folders match paths in docker-compose.yml
+1. Database connection error - Ensure db container is running (docker ps)
+2. SSL warning - Normal for self-signed certificates; accept warning in browser
+3. Port 443 in use - Stop other services using port 443
+4. File path issues on Windows - Make sure project folders match paths in docker-compose.yml
 
 ---
